@@ -1,5 +1,5 @@
 
-# Kredi Kartı Formu
+# Portfolio Sitesi
 
 Bu proje HTML,CSS,JS ile kodlanmıştır.
 
